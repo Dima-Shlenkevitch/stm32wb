@@ -8,3 +8,5 @@ Firmware/*
 Lessons/*
 *.zip
 *.gbr
+*.pcb3d
+*.gbrjob
