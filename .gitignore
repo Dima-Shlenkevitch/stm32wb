@@ -1,6 +1,7 @@
 *fp-info-cache
 *toBlender/*
-*backups/*
+*STM32_EVB-backups/*
+*MFG/*
 BLE/*
 Books/*
 Firmware/*
